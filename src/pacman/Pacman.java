@@ -24,7 +24,7 @@ public class Pacman extends JFrame {
         
         add(new Board());
         
-        setTitle("Pacman");
+        setTitle("Game Pacman");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(380, 420);
         setLocationRelativeTo(null);
